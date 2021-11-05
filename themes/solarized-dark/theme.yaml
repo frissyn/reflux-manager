@@ -1,0 +1,29 @@
+Meta:
+    name: Solarized Dark
+    description: The classic dark theme for machines and people, now on Replit!
+
+Styles:
+    root:
+        # Nothing to change here
+    tokens:
+        # Background Tokens
+        # Assigned from Base03 to Base00
+        --background-root: "#001b22"
+        --background-default: "#002b36"
+        --background-higher: "#073642"
+        --background-highest: "#586e75"
+        --background-overlay: "#0e1525a0"
+
+        # Forground Tokens
+        # Assigned from Base2 and Base3
+        --foreground-default: "#e8e0c7"
+        --foreground-dimmer: "#eee8d5"
+        --foreground-dimmest: "#f4f0e3"
+
+        # Primary Accent Tokens
+        # Assigned from Blue Accents
+        --accent-primary-strongest: "#1a5f90"
+        --accent-primary-stronger: "#2075b1"
+        --accent-primary-default: "#268bd2"
+        --accent-primary-dimmer: "#429ddd"
+        --accent-primary-dimmest: "#64aee3"
