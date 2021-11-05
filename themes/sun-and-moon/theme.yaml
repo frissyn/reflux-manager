@@ -1,0 +1,20 @@
+Meta:
+    name: Sun and Moon
+    description: Soft pastel colors based around the sun and moon.
+
+Styles:
+    root:
+        # Nothing to change here
+    tokens:
+        # Background Tokens
+        --background-root: "#222747"
+        --background-default: "#282e54"
+        --background-higher: "#2e3561"
+        --background-highest: "#353d6f"
+
+        # Primary Accent Tokens
+        --accent-primary-strongest: "#df9a00"
+        --accent-primary-stronger: "#f3a800"
+        --accent-primary-default: "#ffb308"
+        --accent-primary-dimmer: "#ffb91b"
+        --accent-primary-dimmest: "#ffbf2f"
