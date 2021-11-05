@@ -4,7 +4,7 @@ Simple Python script I use to manage and build my [Reflux](https://github.com/fr
 
 **How to use:**
 
-1. Fork and/or clone the respository.
+1. Fork and/or clone the respository (or fork the [repl](https://replit.com/@reflux/manager#README.md)).
 2. Delete and create a new `themes/` directory.
 3. To create a new theme, make a new folder with the theme title and a `theme.yaml` file.
 4. Run the script with `python setup.py` to upload your themes and build them.
@@ -13,6 +13,8 @@ Simple Python script I use to manage and build my [Reflux](https://github.com/fr
 That's it! You can have as many themes as you want, and running the script will upload and build all your themes. The `build/` contains the theme's referral code, raw CSS stylesheet, and bookmarklet script if you want a standalone theme bookmarklet.
 
 **Showcase:**
+
+![image](https://storage.googleapis.com/replit/images/1636145143247_23e471d24998f4d7132209685121aca5.png)
 
 **Check out Reflux:**
 
