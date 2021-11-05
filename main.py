@@ -28,7 +28,4 @@ for project in os.listdir(root):
     theme.engine(file=f"{project}/build/engine.js")
     theme.to_stylesheet(file=f"{project}/build/style.css")
 
-    print("  + Saving and closing...")
-    print("  ~ Done!")
-    
-    print("-~" * 10, "\n\n")
+    print("  ~ Done!\n", "-~" * 10, "\n\n")
