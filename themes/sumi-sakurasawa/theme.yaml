@@ -1,0 +1,22 @@
+Meta:
+    name: Sumi Sakurasawa
+    description: Character color theme based on Sumi Sakurasawa from Rent-a-Girlfriend!
+
+Styles:
+    root:
+        # Nothing to change here
+    tokens:
+        --background-root:    "#905691"
+        --background-default: "#a568a6"
+        --background-higher:  "#b481b5"
+        --background-highest: "#c299c3"
+
+        # --foreground-default: "#e57b97"
+        # --foreground-dimmer:  "#ec9cb1"
+        # --foreground-dimmest: "#f2bdcb"
+
+        --accent-primary-strongest: "#427642"
+        --accent-primary-stronger:  "#508f50"
+        --accent-primary-default:   "#60a660"
+        --accent-primary-dimmer:    "#79b479"
+        --accent-primary-dimmest:   "#92c292"
