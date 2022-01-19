@@ -12,6 +12,11 @@ Styles:
         --background-higher: "#2e3561"
         --background-highest: "#353d6f"
 
+        # Foreground Tokens
+        --foreground-default: "#f5f5f5"
+        --foreground-dimmer: "#e1e1e1"
+        --foreground-dimmest: "#cecece"
+
         # Primary Accent Tokens
         --accent-primary-strongest: "#df9a00"
         --accent-primary-stronger: "#f3a800"
