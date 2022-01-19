@@ -1,0 +1,39 @@
+Meta:
+    name: Purple Beach
+    description: A blast of purple with soft pastel accents!
+
+Styles:
+    root:
+        # Nothing to change here
+    tokens:
+        # PRIMARIES
+            # Background
+            --background-root: "#b474ff"
+            --background-default: "#bf88ff"
+            --background-higher: "#c99bff"
+            --background-highest: "#d4afff"
+            --background-overlay: "#b474ff"
+            # Foreground
+            --foreground-default: "#0a0a0a"
+            --foreground-dimmer: "#141414"
+            --foreground-dimmest: "#1f1f1f"
+
+        # ACCENTS
+            # Primary
+            --accent-primary-strongest: "#ffd6d6"
+            --accent-primary-stronger: "#ffc2c2"
+            --accent-primary-default: "#ffafaf"
+            --accent-primary-dimmer: "#ff9b9b"
+            --accent-primary-dimmest: "#ff8888"
+            # Positive
+            --accent-positive-strongest: "#c9ffd9"
+            --accent-positive-stronger: "#b5ffcb"
+            --accent-positive-default: "#a2ffbd"
+            --accent-positive-dimmer: "#8effb0"
+            --accent-positive-dimmest: "#7bffa2"
+            # Negative
+            --accent-negative-strongest: "#ffe3ff"
+            --accent-negative-stronger: "#ffcfff"
+            --accent-negative-default: "#ffbcff"
+            --accent-negative-dimmer: "#ffa8ff"
+            --accent-negative-dimmest: "#ff95ff"
