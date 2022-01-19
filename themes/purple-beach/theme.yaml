@@ -12,7 +12,6 @@ Styles:
             --background-default: "#bf88ff"
             --background-higher: "#c99bff"
             --background-highest: "#d4afff"
-            --background-overlay: "#b474ff"
             # Foreground
             --foreground-default: "#0a0a0a"
             --foreground-dimmer: "#141414"
