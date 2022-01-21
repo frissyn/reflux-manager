@@ -1,0 +1,38 @@
+Meta:
+    name: Vibrant Forest
+    description: An energetic and nature-based theme.
+
+Styles:
+    root:
+        # Nothing to change here
+    tokens:
+        # PRIMARIES
+            # Background
+            --background-root: "#3cd480"
+            --background-default: "#5cdb95"
+            --background-higher: "#7ce2aa"
+            --background-highest: "#9ce9bf"
+            # Foreground
+            --foreground-default: "#313131"
+            --foreground-dimmer: "#3b3b3b"
+            --foreground-dimmest: "#444444"
+
+        # ACCENTS
+            # Primary
+            --accent-primary-strongest: "#02193f"
+            --accent-primary-stronger: "#042765"
+            --accent-primary-default: "#05368b"
+            --accent-primary-dimmer: "#0645b1"
+            --accent-primary-dimmest: "#0853d7"
+            # Positive
+            --accent-positive-strongest: "#a9a816"
+            --accent-positive-stronger: "#cccb1b"
+            --accent-positive-default: "#e3e22b"
+            --accent-positive-dimmer: "#e8e74e"
+            --accent-positive-dimmest: "#eceb70"
+            # Negative
+            --accent-negative-strongest: "#b13000"
+            --accent-negative-stronger: "#d83a00"
+            --accent-negative-default: "#ff4500"
+            --accent-negative-dimmer: "#ff6227"
+            --accent-negative-dimmest: "#ff7e4e"
